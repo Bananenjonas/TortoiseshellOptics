@@ -132,8 +132,16 @@ nav p {
   color: white;
 }
 
-.item p {
-
+/*Cpyright*/
+#copyright  {
+  background: azure;
+  margin-top: 5rem;
+  padding: 4rem 0 4rem 4rem;
+  display: flex;
+  align-items: center;
 }
 
-/*Cpyright*/
+#copyright img  {
+  height: 1.5rem;
+  padding-right: 1rem;
+}
