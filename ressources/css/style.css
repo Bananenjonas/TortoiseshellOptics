@@ -79,7 +79,6 @@ nav p {
   width: 5rem;
   display: block;
   justify-content: center;
-  border: 1px solid black;
   position: relative;
 
 }
@@ -110,6 +109,31 @@ nav p {
 }
 
 /*Philosophy/Appointments*/
+#PhilosophyAppointments {
+  display: flex;
+  justify-content: space-around;
+}
 
+.item {
+  margin-top: 3rem;
+  width: 35%;
+  margin-right: 5%;
+
+}
+
+.item h2 {
+  width: 10rem;
+  padding: 0.5rem 0 0.5rem 1.25rem;
+  background-color: cadetblue;
+  margin-bottom: 1rem;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 1rem;
+  color: white;
+}
+
+.item p {
+
+}
 
 /*Cpyright*/
